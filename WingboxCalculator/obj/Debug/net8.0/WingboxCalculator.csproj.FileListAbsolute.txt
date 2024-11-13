@@ -1,0 +1,14 @@
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\bin\Debug\net8.0\WingboxCalculator.exe
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\bin\Debug\net8.0\WingboxCalculator.deps.json
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\bin\Debug\net8.0\WingboxCalculator.runtimeconfig.json
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\bin\Debug\net8.0\WingboxCalculator.dll
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\bin\Debug\net8.0\WingboxCalculator.pdb
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\WingboxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\WingboxCalculator.AssemblyInfoInputs.cache
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\WingboxCalculator.AssemblyInfo.cs
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\WingboxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\WingboxCalculator.dll
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\refint\WingboxCalculator.dll
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\WingboxCalculator.pdb
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\WingboxCalculator.genruntimeconfig.cache
+C:\Users\lukee\RiderProjects\WingboxCalculator\WingboxCalculator\obj\Debug\net8.0\ref\WingboxCalculator.dll
